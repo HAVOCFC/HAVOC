@@ -31,7 +31,6 @@
       "unconnected-(IC2-PC1-Pad35)",
       "I2C1_SCL",
       "I2C2_SDA",
-      "I2C1_SDA",
       "unconnected-(IC2-PE5-Pad4)",
       "unconnected-(IC2-PC3_C-Pad37)",
       "unconnected-(IC2-PG13-Pad157)",
@@ -194,7 +193,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_fffffffd",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
